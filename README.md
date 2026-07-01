@@ -19,13 +19,11 @@ A passionate Computer Science Engineering student focused on building clean, res
 * **Tech Stack:** HTML5, CSS3, JavaScript
 * **Key Features:** Clean typography, smooth navigation, and a dedicated certificates showcase.
 
-*(Tip: ഇനി നീ ചെയ്യാൻ പോകുന്ന നല്ല പ്രൊജക്റ്റുകൾ ഇതേ ഫോർമാറ്റിൽ ഇതിലേക്ക് താഴെ താഴെയായി ആഡ് ചെയ്യാം!)*
 
 ---
 
 ## 📜 Certifications
-* **Certificate Name 1** - Issued by Organization (Year)
-* **Certificate Name 2** - Issued by Organization (Year)
+* **Fumdamentals of Digital Marketing** - Issued by Google Digital Garage (2026)
 
 ---
 
