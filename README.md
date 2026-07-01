@@ -29,5 +29,5 @@ A passionate Computer Science Engineering student focused on building clean, res
 
 ## 📬 Let's Connect!
 * 💼 **LinkedIn:** [Muhammed Ashik H](https://www.linkedin.com/in/muhammed-ashik-h)
-* 📧 **Email:** [12muhammedashikh12@gmail.com](mailto:12muhammedashikh12@gmail.com)
+* 📧 **Email:** [12muhammedashikh12@gmail.com](mailto:https://mail.google.com/mail/u/2)
 * 🌐 **GitHub:** [@ashik-codex](https://github.com/ashik-codex)
